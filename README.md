@@ -42,7 +42,7 @@ This project focuses on key programming concepts such as **list data structures*
 ### ⚡ **How to Run**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-list-application.git
+   git clone https://github.com/Dj-gamer007/todo-list-application.git
    ```
 
 2. **Navigate to the project directory:**
